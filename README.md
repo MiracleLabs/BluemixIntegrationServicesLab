@@ -36,7 +36,10 @@ The repository contains detailed documentation and steps for understanding and c
 
 The following people have contributed to the development and delivery of this lab. This Lab is created and owned by the Miracle Innovation Labs Team. 
 
-Manasa Sutapalli - Lead Researcher/Cloud and APIs
-Sasank Bhavaraju - Research Associate/Cloud and APIs
-Aditya Chinni - Lead for Miracle Innovation Labs
-Chanakya Lokam - Director Marketing and Innovation
+• Manasa Sutapalli - Lead Researcher/Cloud and APIs
+
+• Sasank Bhavaraju - Research Associate/Cloud and APIs
+
+• Aditya Chinni - Lead for Miracle Innovation Labs
+
+• Chanakya Lokam - Director Marketing and Innovation
