@@ -80,9 +80,13 @@ a{
 color: #00B7FF;
 }
 
+### Stylesheet/styles.css
+
+```css
 .modal-footer {
   border-top : 0px;
 }
+
 ```
 ### routes/index.js
 ```javascript
