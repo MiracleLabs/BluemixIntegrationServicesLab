@@ -16,7 +16,9 @@ Bootstrap JS CDN URL - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/boots
 
 ## Commands
 
-
+```shell
+cf login
+```
 
 ## Code Snippets
 
