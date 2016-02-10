@@ -13,8 +13,11 @@ The following are the technologies that are used in this lab. Any prior knowledg
 • IBM Bluemix
 
 • CloudFoundry
+
 • IBM API Management
+
 • Node.js
+
 • REST/SOAP
 
 ## Repository Contents
@@ -23,7 +26,11 @@ The repository contains detailed documentation and steps for understanding and c
 
 • Presentation for diving into the various technologies 
 
-• 
+• Step-by-Step Document for completing the lab
+
+• Complete Final Application for testing
+
+• Text File with useful links and code snippets to copy and paste
 
 ## Lab Contributors
 
