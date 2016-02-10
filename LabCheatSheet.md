@@ -17,7 +17,13 @@ Bootstrap JS CDN URL - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/boots
 ## Commands
 
 ```shell
-cf login
+
+cf api <Bluemix URL> for setting your Bluemix EndPoint
+
+cf login for logging in to your Bluemix Account
+
+cf push to push your application to the Bluemix Cloud
+
 ```
 
 ## Code Snippets
@@ -113,7 +119,7 @@ response.render('index',{title:body.Celsius});
 module.exports = router;
 ```
 
-### views/index.html
+### views/index.ejs
 
 ```html
 <html lang="en">
