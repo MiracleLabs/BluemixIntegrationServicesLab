@@ -11,10 +11,19 @@ In this lab the user will use IBM Bluemix to create and deploy a Cloud Applicati
 The following are the technologies that are used in this lab. Any prior knowledge of these technologies will accelerate your pace of learning. 
 
 • IBM Bluemix
+
 • CloudFoundry
 • IBM API Management
 • Node.js
 • REST/SOAP
+
+## Repository Contents
+
+The repository contains detailed documentation and steps for understanding and conquering this lab. 
+
+• Presentation for diving into the various technologies 
+
+• 
 
 ## Lab Contributors
 
