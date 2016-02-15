@@ -12,7 +12,7 @@ Download SOAP UI - https://www.soapui.org/
 
 Bootstrap CSS CDN URL - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
 
-Bootstrap JS CDN URL - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+Bootstrap JS CDN URL - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
 
 ## Commands
 
